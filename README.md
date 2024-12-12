@@ -49,17 +49,3 @@ The **Teacher Feedback Analysis System** is a Streamlit application designed to 
 ├── feedback_model.pkl      # Pre-trained machine learning model
 └── README.md               # Project documentation
 ```
-
-## Future Enhancements
-- Integration with databases for storing feedback.
-- Additional visualizations and insights.
-- Multi-language support for feedback analysis.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-For queries or contributions, feel free to reach out:
-- **Email**: [your_email@example.com]
-- **GitHub**: [your_github_profile_url]
-
